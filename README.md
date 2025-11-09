@@ -1,2 +1,2 @@
 # robot-arm
-Design custom robot-arm with Andrino 
+Design custom robot-arm with Arduino
